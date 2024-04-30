@@ -159,7 +159,7 @@
             // 
             // listBox2
             // 
-            this.listBox2.BackColor = System.Drawing.SystemColors.WindowText;
+            this.listBox2.BackColor = System.Drawing.SystemColors.WindowFrame;
             this.listBox2.FormattingEnabled = true;
             this.listBox2.ItemHeight = 17;
             this.listBox2.Location = new System.Drawing.Point(344, 11);
@@ -178,7 +178,7 @@
             this.ClassCampioData.Name = "ClassCampioData";
             this.ClassCampioData.RowHeadersWidth = 51;
             this.ClassCampioData.RowTemplate.Height = 24;
-            this.ClassCampioData.Size = new System.Drawing.Size(466, 296);
+            this.ClassCampioData.Size = new System.Drawing.Size(466, 283);
             this.ClassCampioData.TabIndex = 1;
             // 
             // listBox1
